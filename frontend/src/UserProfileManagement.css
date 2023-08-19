@@ -1,0 +1,61 @@
+.user-profile-management {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .create-profile {
+    margin-bottom: 20px;
+  }
+  
+  .profile-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  .profile-table th,
+  .profile-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .profile-table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
+  .profile-row.selected {
+    background-color: #eaf5ff;
+  }
+  
+  .selected-profile {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .selected-profile h2 {
+    margin-bottom: 10px;
+  }
+  
+  .selected-profile input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+  }
+  
+  .selected-profile button {
+    margin-right: 10px;
+    padding: 8px 12px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .selected-profile button:hover {
+    background-color: #45a049;
+  }
