@@ -1,4 +1,4 @@
-# User Profile Management - High-Level Documentation
+# User Profile Management
 
 ## Table of Contents
 
