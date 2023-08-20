@@ -34,7 +34,7 @@ The User Profile Management system consists of the following components:
 
 The system follows a client-server architecture:
 
-- *Client*: The React.js frontend and the Telegram bot serve as the clients, providing interfaces for user interaction.
+- *Client-Side*: The client-side of the system includes the React.js frontend, the Telegram bot, and Postman. These components provide interfaces for user interaction and API testing.
 
 - *Server*: The Spring Boot API acts as the server, handling requests from clients, processing data, and interacting with the database.
 
