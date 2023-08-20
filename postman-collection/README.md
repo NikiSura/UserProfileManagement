@@ -37,3 +37,29 @@ Follow these instructions to get started with the User Profile Management API Po
 
    ```bash
    git clone https://github.com/NikiSura/UserProfileManagement.git
+
+2. Import the collection into Postman:
+   Open Postman.
+   Click on the "Import" button in the top left corner.
+   Select the downloaded user-profile-management.postman_collection.json file.
+   Import the environment configuration:
+   In Postman, click on the gear icon in the top right corner to access settings.
+   Go to the "Manage Environments" section.
+   Click "Import" and select the user-profile-management.postman_environment.json file.
+   Configure environment variables:
+   In the imported environment, set the variables like api_base_url to match the API endpoint you want to test.
+   
+### Usage
+
+Select the imported environment from the environment dropdown in Postman.
+Use the collection to execute API requests and test the User Profile Management API.
+Review the responses and ensure that the API behaves as expected.
+Feel free to customize the collection to suit your testing needs or add more requests as your project evolves.
+
+## Authors
+
+- Nikila Surapaneni - https://github.com/NikiSura
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
