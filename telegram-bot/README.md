@@ -38,6 +38,7 @@ Follow these instructions to set up and run the User Profile Management Telegram
    git clone https://github.com/NikiSura/UserProfileManagement.git
 
 2. Navigate to the project directory:
+   
 ```bash
 cd telegram-bot
 
