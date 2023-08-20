@@ -39,7 +39,7 @@ Follow these instructions to set up and run the User Profile Management Telegram
 
 2. Navigate to the project directory:
    
-```bash
+
 cd telegram-bot
 
 3. Usage
