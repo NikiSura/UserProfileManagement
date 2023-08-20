@@ -45,7 +45,7 @@ cd telegram-bot
 3. Usage
 Start the Telegram bot:
 From the telegram-bot directory:
-```bash
+
 ./mvnw spring-boot:run
 
 The bot should be up and running and ready to respond to Telegram messages.
