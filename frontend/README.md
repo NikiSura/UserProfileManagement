@@ -43,5 +43,14 @@ Follow these instructions to set up and run the User Profile Management Frontend
 
 ### Usage
     npm start
+    
+## Authors
+
+- Nikila Surapaneni - https://github.com/NikiSura
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
    
