@@ -34,5 +34,5 @@ Follow these instructions to set up and run the User Profile Management Frontend
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/user-profile-management-frontend.git
+   git clone https://github.com/NikiSura/UserProfileManagement.git
    
