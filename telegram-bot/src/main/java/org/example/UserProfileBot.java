@@ -11,12 +11,12 @@ public class UserProfileBot extends org.telegram.telegrambots.bots.TelegramLongP
 
     @Override
     public String getBotToken() {
-        return "6697653740:AAH6nVYTTcRkjnqKjfy9cqb2GX2lhzDHy54";
+        return "";
     }
 
     @Override
     public String getBotUsername() {
-        return "NikiHSBot";
+        return "";
     }
 
     private Map<Long, String> userState = new HashMap<>(); // Declaration for userState
