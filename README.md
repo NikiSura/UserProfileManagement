@@ -26,7 +26,9 @@ The User Profile Management system consists of the following components:
 
 - *Telegram Bot*: A custom Telegram bot that allows users to interact with their profiles and receive notifications through Telegram's chat interface.
 
-- *Database*: The system relies on a PostgreSQL database to store user profile data securely.
+- *Postman Collection*: A collection of API requests for testing and interacting with the Spring Boot API. It facilitates API testing and integration into the development workflow.
+
+- *Database*: The system relies on a SQLite database to store user profile data securely.
 
 ## 3. Architecture
 
