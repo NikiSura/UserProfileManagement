@@ -35,4 +35,13 @@ Follow these instructions to set up and run the User Profile Management Frontend
 
    ```bash
    git clone https://github.com/NikiSura/UserProfileManagement.git
+
+2. Navigate to project directory
+      cd frontend
+3. Install dependencies
+     npm install
+
+### Usage
+    npm start
+
    
