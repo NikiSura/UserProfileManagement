@@ -76,25 +76,21 @@ The system follows a client-server architecture:
 
 1. Users can access the system via the web interface or Telegram bot.
 
-2. In the web interface, users can register, log in, and manage their profiles. They can also upload profile pictures.
+2. In the web interface, users can register, log in, and manage their profiles.
 
-3. Users interacting with the Telegram bot can perform actions such as retrieving their profile information, editing details, and receiving notifications.
+3. Users interacting with the Telegram bot can perform actions such as retrieving their profile information, editing details, and creating profiles.
 
 ## 6. Features
 
-- User registration and authentication.
-- Profile creation, editing, and picture uploads.
+- User registration
+- Profile creation, editing, deleting, and updating
 - Chat-based interaction with the Telegram bot.
 - Notifications and updates through Telegram.
-- Admin panel for user management (accessible through the web interface).
+- user management accessible through the web interface.
 
 ## 7. Deployment
 
 The system can be deployed in a cloud-based or on-premises environment. Specific deployment instructions can be found in the project's respective documentation.
-
-## 8. Contributing
-
-Contributions to the User Profile Management project are welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) for details on how to contribute.
 
 ## Authors
 
