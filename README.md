@@ -62,6 +62,16 @@ The system follows a client-server architecture:
 
 - *API Integration*: Communicates with the Spring Boot API for user profile management.
 
+### 4.4. Postman Collection
+
+- *API Requests*: A set of requests for testing and interacting with the Spring Boot API. It facilitates API testing and integration into the development workflow.
+
+- *Environment Variables*: Configured environment variables for easy API testing against different environments.
+
+### 4.5. Database
+
+- *SQLite*: The system relies on a SQLite database to store user profile data securely.
+  
 ## 5. How It Works
 
 1. Users can access the system via the web interface or Telegram bot.
