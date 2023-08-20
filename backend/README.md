@@ -56,7 +56,7 @@ Adjust the configuration settings in the `application.properties` file according
 
 ## Authors
 
-- Your Name - [Your GitHub Profile](https://github.com/your-username)
+- Nikila Surapaneni - https://github.com/NikiSura
 
 ## License
 
